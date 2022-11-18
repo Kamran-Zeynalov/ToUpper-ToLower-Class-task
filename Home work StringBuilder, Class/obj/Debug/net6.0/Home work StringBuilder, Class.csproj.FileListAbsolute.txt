@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\bin\Debug\net6.0\Home work StringBuilder, Class.exe
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\bin\Debug\net6.0\Home work StringBuilder, Class.deps.json
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\bin\Debug\net6.0\Home work StringBuilder, Class.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\bin\Debug\net6.0\Home work StringBuilder, Class.dll
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\bin\Debug\net6.0\Home work StringBuilder, Class.pdb
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\obj\Debug\net6.0\Home work StringBuilder, Class.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\obj\Debug\net6.0\Home work StringBuilder, Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\obj\Debug\net6.0\Home work StringBuilder, Class.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\obj\Debug\net6.0\Home work StringBuilder, Class.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\obj\Debug\net6.0\Home work StringBuilder, Class.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\obj\Debug\net6.0\Home work StringBuilder, Class.dll
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\obj\Debug\net6.0\refint\Home work StringBuilder, Class.dll
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\obj\Debug\net6.0\Home work StringBuilder, Class.pdb
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\obj\Debug\net6.0\Home work StringBuilder, Class.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp9\Home work StringBuilder, Class\obj\Debug\net6.0\ref\Home work StringBuilder, Class.dll
