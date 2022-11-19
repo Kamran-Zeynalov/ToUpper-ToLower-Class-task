@@ -31,12 +31,12 @@
 
 
 #region Student Class
-//using Home_work_StringBuilder__Class;
+using Home_work_StringBuilder__Class;
 
-//Student student = new Student("Kamran", " Zeynalov");
+Student student = new Student("Kamran", " Zeynalov");
 
-//Student student1 = new Student("Kamran", "Zeynalov", 2, 90, true);
-//student1.Graduated();
-//student1.Points(); 
+Student student1 = new Student("Kamran", "Zeynalov", "P230", 90, true);
+student1.Graduated();
+student1.Points();
 #endregion
 

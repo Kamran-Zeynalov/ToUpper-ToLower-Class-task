@@ -10,7 +10,7 @@ namespace Home_work_StringBuilder__Class
     {
         public string Name;
         public string SurName;
-        public byte Group;
+        public string Group;
         public int Point;
         public bool IsGraduated;
 
@@ -23,7 +23,7 @@ namespace Home_work_StringBuilder__Class
 
         }
 
-        public Student(string name, string surname, byte group, byte point, bool isgraduated)
+        public Student(string name, string surname, string group, int point, bool isgraduated)
         {
             Name = name;
             SurName = surname;
