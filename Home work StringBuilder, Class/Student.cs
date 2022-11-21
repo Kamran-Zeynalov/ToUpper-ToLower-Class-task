@@ -13,6 +13,11 @@ namespace Home_work_StringBuilder__Class
         public string Group;
         public int Point;
         public bool IsGraduated;
+        
+        public string Student()
+        {
+        return Name + " " + SurName;
+        }
 
         public Student(string name, string surname, string group, int point, bool isgraduated)
         {
