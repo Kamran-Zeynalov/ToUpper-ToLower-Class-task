@@ -21,6 +21,7 @@ static void Sentencee(string sentence)
             sentence = sentence.ToUpper();
             Console.Write(sentence[i]);
             i++;
+            contunie;
         }
         Console.Write(sentence[i]);
         sentence = sentence.ToLower();
