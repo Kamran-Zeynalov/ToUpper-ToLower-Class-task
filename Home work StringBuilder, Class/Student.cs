@@ -14,15 +14,6 @@ namespace Home_work_StringBuilder__Class
         public int Point;
         public bool IsGraduated;
 
-
-        public Student(string name, string surname)
-        {
-            Name = name;
-            SurName = surname;
-            //Console.WriteLine("Name and Surname: " +Name + SurName);
-
-        }
-
         public Student(string name, string surname, string group, int point, bool isgraduated)
         {
             Name = name;
